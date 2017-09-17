@@ -1,5 +1,5 @@
-planets3.js
 /* 
+ * Protarammatically generates a spacesape with fuzzy planets
  * Borrowed heavily and modified from a Duke example.
  */
 
